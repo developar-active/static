@@ -10,3 +10,4 @@ Currently available routes:
 * [logo](http://static.developar.in/logo/)/
 * [vectors](http://static.developar.in/vectors/)/
 * [docs](http://static.developar.in/docs/)/
+* [fonts](http://static.developar.in/fonts/)/
